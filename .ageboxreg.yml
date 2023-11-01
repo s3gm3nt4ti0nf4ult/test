@@ -1,2 +1,4 @@
-file_ids: []
+file_ids:
+- secrets.yml
+- tokens.yml
 version: "1"
